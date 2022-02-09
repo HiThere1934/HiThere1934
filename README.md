@@ -11,6 +11,7 @@ Some facts about me
   - I'm sometimes stupidly paranoid
   - Everything I dread somehow happens
   - I use he/him pronouns
+  - I'm a space nerd
  I've been *trying* to learn C++
  
  ### My current projects include a bunch of calculators and other random Python projects
