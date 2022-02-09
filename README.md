@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi There!
 
-<!--
-**HiThere1934/HiThere1934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm HiThere1934
 
-Here are some ideas to get you started:
+Some facts about me
+  - I like trains (kind of like a lot) 🚂
+  - I'm skilled(ish) in Python, HTML, Unity, and CSS
+  - I love to learn
+  - I develop a range of applications from video games in Unity to random and weird things
+  - I've been coding for half my life!
+ I've been *trying* to learn C++
+ 
+ My current projects include a bunch of calculators and other random Python projects
+ 
+ One more thing
+ I really really don't like those people who copy code
+ and I mean REALLY
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚂🚂🚂🚂🚂
+
+*Disclaimer, I can't spell very well
