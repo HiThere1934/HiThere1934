@@ -1,6 +1,6 @@
-### Hi There!
+# Hi There!
 
-### I'm HiThere1934
+## I'm HiThere1934
 
 Some facts about me
   - I like trains (kind of like a lot) 🚂
@@ -12,7 +12,9 @@ Some facts about me
   - Everything I dread somehow happens
   - I use he/him pronouns
   - I'm a space nerd
- I've been *trying* to learn C++
+
+
+#### I've been *trying* to learn C++
  
  ### My current projects include a bunch of calculators and other random Python projects
  
