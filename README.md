@@ -1,6 +1,6 @@
-Hi There!
+### Hi There!
 
-I'm HiThere1934
+### I'm HiThere1934
 
 Some facts about me
   - I like trains (kind of like a lot) 🚂
@@ -12,10 +12,12 @@ Some facts about me
  
  My current projects include a bunch of calculators and other random Python projects
  
+<a href="https://replit.com/@HiThere1934/Pythagorean-Calculator#main.py">My Latest Calculator!</a>
+ 
  One more thing
  I really really don't like those people who copy code
- and I mean REALLY
+ and I mean REALLY hate those people
 
 🚂🚂🚂🚂🚂
 
-*Disclaimer, I can't spell very well
+*Disclaimer, sometimes I can't spell very well
