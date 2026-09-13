@@ -6,7 +6,7 @@ I've worked predominantly with **Python**, and that's the language most projects
  - HTML/JS/CSS
  - C#
  - C++
- - Arduino/ESP32 and associated sensors (MPU6050 Accelerometer, HC-SR04 Ultrasonic Distance Sensor)
+ - Arduino/ESP32 and associated sensors (MPU6050 Accelerometer, HC-SR04 Ultrasonic Distance Sensor, etc.)
 
 As for specific Python modules I'm familiar with:
  - Pandas
